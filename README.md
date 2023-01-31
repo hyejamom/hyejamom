@@ -25,7 +25,7 @@
 
 <h3>Account<h3>
 <p>
-  <a href="[https://hyejamom.tistory.com/](https://hyejamom.github.io/port-main/)">
+  <a href="https://hyejamom.github.io/port-main/">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
   </a>
   <a href="https://hyejamom.tistory.com/">
